@@ -50,4 +50,4 @@ Contains `solar_models.zip` with the two trained model files:
 These can be loaded directly with `joblib` for predictions without retraining.
 
 ### **Demo_and_Hosting/**
-Reserved for hosting and demo-related files for deploying the trained models.
+Contains the Streamlit web application (SolarIntel) for interactive model predictions and visualisation. Includes `app.py` (the main dashboard with prediction, pipeline explorer, country comparison, and project info tabs), `model_loader.py` (loads the trained models from `Final_Pipeline/`), and `requirements.txt`. See `Demo_and_Hosting/README.md` for setup and usage instructions.
