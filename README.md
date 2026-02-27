@@ -50,4 +50,4 @@ Contains `solar_models.zip` with the two trained model files:
 These can be loaded directly with `joblib` for predictions without retraining.
 
 ### **Demo_and_Hosting/**
-Reserved for hosting and demo-related files for deploying the trained models.
+Contains the interactive Streamlit-based GUI for visualising solar energy forecasting results. The app provides real-time predictions, 24-hour generation profiles, feature importance analysis, seasonal patterns, and model performance metrics. See the folder's README for setup and deployment instructions.
