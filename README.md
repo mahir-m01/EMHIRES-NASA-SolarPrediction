@@ -54,7 +54,8 @@ EMHIRES-NASA-SolarPrediction/
 ├── NASA_Data_Fetch/          # NASA POWER API data collection
 ├── Datasets/                 # Raw and processed data (zipped)
 ├── Models/                   # Trained model files (zipped)
-└── Demo_and_Hosting/         # Streamlit app for deployment
+├── Demo_and_Hosting/         # Streamlit app for deployment
+└── Report/                   # Project report (LaTeX + PDF)
 ```
 
 ### Walkthrough/
@@ -90,6 +91,9 @@ Contains `solar_models.zip` with the two trained model files (`solar_model_lr.pk
 
 ### Demo_and_Hosting/
 The Streamlit web application deployed on Hugging Face Spaces. Provides real-time predictions, 24-hour generation profiles, feature importance analysis, seasonal patterns, and model performance metrics.
+
+### Report/
+Contains the formal project report in both LaTeX source (`Report.tex`) and compiled PDF (`Report.pdf`). Covers data sources, pipeline architecture, feature engineering, model training, evaluation results, deployment, and future work.
 
 ---
 
