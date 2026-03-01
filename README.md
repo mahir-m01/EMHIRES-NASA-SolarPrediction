@@ -123,7 +123,7 @@ Contains the formal project report in both LaTeX source (`Report.tex`) and compi
 
 Watch the full project demonstration here:
 
-(https://drive.google.com/file/d/1PCLF0SfjMGW_zTBYoztBqh-fYx7ANlcm/view?usp=drive_link)
+[Video](https://drive.google.com/file/d/1PCLF0SfjMGW_zTBYoztBqh-fYx7ANlcm/view?usp=drive_link)
 
 ---
 
