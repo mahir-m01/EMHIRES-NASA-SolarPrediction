@@ -119,6 +119,14 @@ Contains the formal project report in both LaTeX source (`Report.tex`) and compi
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the full project demonstration here:
+
+▶️ (https://drive.google.com/file/d/1PCLF0SfjMGW_zTBYoztBqh-fYx7ANlcm/view?usp=drive_link)
+
+---
+
 ## License
 
 This project uses publicly available data from the [European Commission Joint Research Centre (EMHIRES)](https://setis.ec.europa.eu/european-commission-services/emhires) and the [NASA POWER API](https://power.larc.nasa.gov/).
