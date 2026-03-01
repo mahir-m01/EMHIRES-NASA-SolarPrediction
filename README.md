@@ -119,11 +119,11 @@ Contains the formal project report in both LaTeX source (`Report.tex`) and compi
 
 ---
 
-## 🎥 Project Demo Video
+## Project Demo Video
 
 Watch the full project demonstration here:
 
-▶️ (https://drive.google.com/file/d/1PCLF0SfjMGW_zTBYoztBqh-fYx7ANlcm/view?usp=drive_link)
+(https://drive.google.com/file/d/1PCLF0SfjMGW_zTBYoztBqh-fYx7ANlcm/view?usp=drive_link)
 
 ---
 
