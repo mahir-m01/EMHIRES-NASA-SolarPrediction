@@ -168,14 +168,11 @@ def render(installed_capacity):
             st.markdown("#### What You Can Do")
             for s in strategies:
                 src = s.get("source", "general")
-                badge = "📚 Research-backed" if src == "retrieved" else "💡 General advice"
-                badge_color = "#3B82F6" if src == "retrieved" else "#6B7280"
+                rag_tag = " <span style='font-size:11px; background:#3B82F6; color:white; padding:1px 6px; border-radius:3px; margin-left:6px'>(RAG)</span>" if src == "retrieved" else ""
                 st.markdown(
                     f"<div style='border:1px solid #44403C; padding:10px 14px; margin-bottom:8px; "
                     f"background:#1C1917; border-radius:6px'>"
-                    f"<strong>{s.get('title','')}</strong> "
-                    f"<span style='font-size:11px; background:{badge_color}; color:white; "
-                    f"padding:1px 6px; border-radius:3px; margin-left:6px'>{badge}</span><br>"
+                    f"<strong>{s.get('title','')}</strong>{rag_tag}<br>"
                     f"<span style='color:#A8A29E; font-size:13px'>{s.get('description','')}</span></div>",
                     unsafe_allow_html=True,
                 )

@@ -40,9 +40,10 @@ def render(model, country_code, hour, month, irradiance, temperature, wind_speed
         palette = ["#D97706", "#F59E0B", "#3B82F6", "#22C55E", "#EF4444", "#A855F7", "#EC4899", "#14B8A6"]
 
         # Use cached computation
-        compare_cf, profiles_24h, monthly_data = _compute_comparison(
-            model, tuple(compare_countries), hour, month, irradiance, temperature, wind_speed, installed_capacity
-        )
+        with st.spinner("Crunching numbers for all countries…"):
+            compare_cf, profiles_24h, monthly_data = _compute_comparison(
+                model, tuple(compare_countries), hour, month, irradiance, temperature, wind_speed, installed_capacity
+            )
         sorted_countries = sorted(compare_countries, key=lambda c: compare_cf[c], reverse=True)
 
         # Country metrics
