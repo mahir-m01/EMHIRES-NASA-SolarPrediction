@@ -3,7 +3,7 @@ import os
 import datetime
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from model_loader import predict_capacity_factor
+from agent_model_loader import predict_capacity_factor
 from weather.fetcher import fetch_weather_forecast, MAX_FORECAST_DAYS
 from state import GridAdvisorState
 
