@@ -1,0 +1,17 @@
+Curtailment, Balancing, and Cross-Border Grid Management
+
+Curtailment is the deliberate reduction of a generator's output to maintain grid stability. It is applied when generation exceeds load plus available storage capacity and cross-border export limits are saturated. Curtailment occurs due to three types of constraints: technical constraints (thermal line limits), operational constraints (minimum inertia requirements), and market constraints (negative prices).
+
+In 2024, the global revenue lost to curtailed energy exceeded 20 billion USD. IRENA estimates cumulative foregone benefits could reach 100 billion USD by 2030 if unaddressed. In Spain, curtailment events averaged 1.8 TWh per year in 2023 due to network congestion in the southwest.
+
+Curtailment is economically preferable to storage investment only when the curtailment rate is below 3-5% of annual generation. Above this threshold, BESS or demand response delivers better returns. Alternatives to curtailment include grid-scale storage to absorb excess production, sector coupling using excess solar for renewable hydrogen or power-to-heat applications, and cross-border electricity export.
+
+The EU has set an interconnection target of 15% by 2030, meaning each country must be able to import 15% of its production capacity from neighbors. Progress is uneven. Spain reached only 3.11% interconnection by early 2026, with the France-Spain interconnection (2.8 GW) a persistent bottleneck limiting Iberian solar exports to Central Europe. ENTSO-E's TYNDP 2024 identifies a need for 108 GW of additional cross-border capacity by 2040, with every euro invested saving over two euros in generation costs.
+
+The Single Intraday Coupling (SIDC) platform enables continuous cross-border trading up to one hour before delivery. By 2026, many European bidding zones have reduced the Intraday Cross-Zonal Gate Closure Time from 60 minutes to 30 minutes, allowing market participants to refine positions based on the latest 15-minute solar forecasts and reducing balancing costs.
+
+ENTSO-E operates four cross-border balancing platforms: PICASSO for automatic Frequency Restoration Reserves (aFRR), MARI for manually activated Frequency Restoration Reserves (mFRR) with activation times up to 12.5 minutes, TERRE for Replacement Reserves (RR), and IGCC for International Grid Control Cooperation and imbalance netting.
+
+A key challenge in high-solar systems is maintaining System Non-Synchronous Penetration (SNSP) limits. Ireland currently operates at a 75% SNSP limit with a roadmap to reach 95% by 2030. This requires managing must-run generation - the minimum thermal plant (gas or coal) that must stay online to provide voltage support and inertia. In Germany, must-run generation averages 33 GW, often forcing curtailment of cheaper renewables during sunny periods.
+
+To address inertia shortfalls without fossil generation, TSOs are procuring Low Carbon Inertia Services (LCIS) and deploying synchronous condensers or grid-forming BESS to provide carbon-free inertia. Nodal pricing mechanisms, piloted in Denmark and the Iberian market, price electricity at the point of injection to reflect local congestion, providing a market signal that directs new solar builds to less constrained grid zones.
