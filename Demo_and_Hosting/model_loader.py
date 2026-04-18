@@ -38,7 +38,7 @@ def load_trained_model(model_name=None):
     model : sklearn model or None
     """
     if model_name is None:
-        model_name = "Linear Regression"
+        model_name = "Random Forest"
 
     # Resolve the pkl filename inside the zip
     pkl_filename = AVAILABLE_MODELS.get(model_name, model_name)
