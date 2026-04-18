@@ -1,0 +1,19 @@
+Demand-Side Management and Load Shifting for Solar
+
+Demand-Side Management (DSM) aligns flexible loads with solar generation windows to reduce net grid exports and avoid curtailment during peak PV output hours. By 2026, EU electricity demand is growing at an average annual rate of 2.3%, driven by electrification of heat and transport.
+
+The solar generation window typically runs from 10:00 AM to 2:00 PM (sometimes 3:00 PM), when solar production is at its daily peak. Time-of-Use (ToU) tariffs signal consumers to shift energy-intensive activities - dishwashers, washing machines, industrial chillers - to this window when marginal solar costs approach zero.
+
+In the UK, the Market-wide Half-Hourly Settlement (MHHS) replacing flat rates with dynamic pricing by 2026 is the main structural driver of ToU adoption. Smart EV charging is the primary demand response load, representing 78% of ToU sign-ups in the UK. Aligning EV charging with the 10 AM - 2 PM solar window or overnight wind peaks significantly reduces household bills. Aggregated across a city, 100,000 EVs represent 300-700 MW of controllable load.
+
+In Germany in January 2026, Ikea and Svea Solar launched a 15-minute dynamic tariff allowing households to charge batteries or EVs when wholesale prices are lowest, sometimes reaching negative values during excess solar and wind in-feed periods.
+
+Heat pump water heaters act as thermal batteries. Pre-heating water to 60 degrees Celsius during solar peak hours and shedding load during the evening grid peak (5 PM - 9 PM) reduces peak demand by 20-60%. HVAC pre-cooling in commercial buildings - dropping setpoints by 1-2 degrees Celsius between 09:00 and 12:00 - stores thermal energy that offsets compressor demand during afternoon peaks.
+
+Home Energy Management Systems (HEMS) use AI to predict solar output and schedule appliances. A HEMS-equipped household achieves a self-consumption rate of 60-80% when paired with a 10 kWh battery.
+
+Industrial demand response programs in Spain and Germany offer large consumers above 1 MW interruptibility payments of 40,000-80,000 EUR per year in exchange for 4-6 hours of daily load reduction availability. Aggregate demand response capacity enrolled in ENTSO-E member markets exceeded 60 GW by 2024, with the majority activated during high-renewable, low-demand periods.
+
+Virtual power plants (VPPs) aggregate residential solar, BESS, and smart loads into a dispatchable resource. Leading European VPP operators including Next Kraftwerke and Statkraft manage portfolios exceeding 10 GW of flexible capacity.
+
+The IEA projects global demand response capacity must reach 500 GW by 2030 to align with Net Zero goals. Currently demand response accounts for only 3% of firm capacity in the EU.
