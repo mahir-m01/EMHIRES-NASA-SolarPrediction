@@ -187,7 +187,7 @@ Watch the full project demonstration here (phase-1):
 
 Watch the full project demonstration here (phase-2):
 
-[Video] (https://drive.google.com/file/d/1U1suAvY5Wzm5zf07u5_wTENIJ3HNzJk9/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1U1suAvY5Wzm5zf07u5_wTENIJ3HNzJk9/view?usp=sharing)
 
 ---
 
